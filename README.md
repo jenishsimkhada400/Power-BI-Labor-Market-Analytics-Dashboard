@@ -7,7 +7,7 @@ The dashboard allows users to explore how unemployment rates change by year and 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze unemployment trends over multiple years  
 - Enable filtering by **date, geography, industry, and demographics**  
 - Demonstrate proper **fact and dimension modeling** in Power BI  
@@ -75,6 +75,3 @@ This page is designed to give users a **high-level macro view** before drilling 
 - **Star Schema Data Modeling**
 - **Interactive Visualizations**
 
----
-
-## 📁 Repository Structure
