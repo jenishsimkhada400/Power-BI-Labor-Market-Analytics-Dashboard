@@ -1,0 +1,21 @@
+﻿demographic_id,age_group,gender,race_ethnicity,education_level,marital_status,veteran_status,disability_status,citizenship_status,english_proficiency,created_date
+DM001,25-34,Male,White,Bachelor's Degree,Single,Non-Veteran,No Disability,US Citizen,Native Speaker,1/1/2025
+DM002,35-44,Female,Hispanic or Latino,High School Graduate,Married,Non-Veteran,No Disability,US Citizen,Bilingual,1/1/2025
+DM003,45-54,Male,Black or African American,Associate Degree,Divorced,Veteran,With Disability,US Citizen,Native Speaker,1/1/2025
+DM004,25-34,Female,Asian,Master's Degree,Married,Non-Veteran,No Disability,Naturalized Citizen,Fluent,1/1/2025
+DM005,55-64,Male,White,High School Graduate,Married,Veteran,No Disability,US Citizen,Native Speaker,1/1/2025
+DM006,20-24,Female,Hispanic or Latino,Some College,Single,Non-Veteran,No Disability,US Citizen,Native Speaker,1/1/2025
+DM007,35-44,Male,White,Bachelor's Degree,Married,Non-Veteran,No Disability,US Citizen,Native Speaker,1/1/2025
+DM008,25-34,Female,Black or African American,Bachelor's Degree,Single,Non-Veteran,No Disability,US Citizen,Native Speaker,1/1/2025
+DM009,45-54,Male,Hispanic or Latino,Less than High School,Married,Non-Veteran,No Disability,Permanent Resident,Limited English,1/1/2025
+DM010,35-44,Female,White,Master's Degree,Divorced,Non-Veteran,No Disability,US Citizen,Native Speaker,1/1/2025
+DM011,55-64,Female,Asian,Professional Degree,Married,Non-Veteran,No Disability,Naturalized Citizen,Fluent,1/1/2025
+DM012,20-24,Male,Black or African American,High School Graduate,Single,Non-Veteran,No Disability,US Citizen,Native Speaker,1/1/2025
+DM013,45-54,Female,White,Associate Degree,Married,Non-Veteran,With Disability,US Citizen,Native Speaker,1/1/2025
+DM014,25-34,Male,Two or More Races,Bachelor's Degree,Single,Veteran,No Disability,US Citizen,Native Speaker,1/1/2025
+DM015,35-44,Female,American Indian or Alaska Native,Some College,Divorced,Non-Veteran,No Disability,US Citizen,Native Speaker,1/1/2025
+DM016,16-19,Male,Hispanic or Latino,Less than High School,Single,Non-Veteran,No Disability,US Citizen,Bilingual,1/1/2025
+DM017,65+,Female,White,High School Graduate,Widowed,Non-Veteran,With Disability,US Citizen,Native Speaker,1/1/2025
+DM018,25-34,Non-Binary,White,Master's Degree,Single,Non-Veteran,No Disability,US Citizen,Native Speaker,1/1/2025
+DM019,35-44,Male,Asian,Doctoral Degree,Married,Non-Veteran,No Disability,Naturalized Citizen,Fluent,1/1/2025
+DM020,20-24,Female,Native Hawaiian or Pacific Islander,Associate Degree,Single,Non-Veteran,No Disability,US Citizen,Native Speaker,1/1/2025

@@ -1,0 +1,13 @@
+﻿industry_id,naics_code,industry_name,industry_sector,industry_group,seasonal_factor,automation_risk,avg_wage_level,sector_code,supersector_code,is_active,created_date
+IND002,62,Health Care and Social Assistance,Healthcare,Education & Health,Low,Low,High,62,620,1,1/1/2025
+IND003,44,Retail Trade,Retail,Trade & Transportation,High,High,Low,44,440,1,1/1/2025
+IND004,31,Manufacturing,Manufacturing,Manufacturing,Medium,High,Medium,31,310,1,1/1/2025
+IND005,72,Accommodation and Food Services,Hospitality,Leisure & Hospitality,High,Medium,Low,72,720,1,1/1/2025
+IND006,23,Construction,Construction,Construction & Resources,High,Medium,Medium,23,230,1,1/1/2025
+IND007,48,Transportation and Warehousing,Transportation,Trade & Transportation,Medium,High,Medium,48,480,1,1/1/2025
+IND008,61,Educational Services,Education,Education & Health,High,Low,Medium,61,610,1,1/1/2025
+IND009,52,Finance and Insurance,Financial Services,Financial Activities,Low,Medium,High,52,520,1,1/1/2025
+IND010,51,Information,Information Technology,Information & Professional,Low,Medium,High,51,510,1,1/1/2025
+IND011,92,Public Administration,Government,Government,Low,Low,Medium,92,920,1,1/1/2025
+IND014,22,Utilities,Utilities,Construction & Resources,Low,Medium,High,22,220,1,1/1/2025
+IND015,81,Other Services (except Public Administration),Other Services,Other Services,Medium,Medium,Low,81,810,1,1/1/2025
